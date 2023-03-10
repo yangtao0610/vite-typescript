@@ -1,0 +1,2 @@
+plugins
+  - vite-plugin-checker
